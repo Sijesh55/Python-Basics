@@ -1,0 +1,10 @@
+How do the memory management working in python. Right, Basically python has Stack and Heap space to store the information.Heap storesthe data with some id/address and that 
+get stored with stack. If id has no object refference then automatically it is eligible for garbage collections.
+
+All python object has a ,
+
+1.Value
+2.ID
+3.Type
+
+Python is a dynamically typed laguage and type is decided by the lagugae.
